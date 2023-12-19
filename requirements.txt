@@ -1,0 +1,13 @@
+numpy
+matplotlib
+jupyter
+pandas
+requests
+tqdm
+opencv-python
+pillow
+mmcv-full
+seaborn
+plotly
+wandb
+scikit-learn
